@@ -1,0 +1,15 @@
+{
+  "signUp": "Sign Up",
+  "login": "Log In",
+  "email": "Email",
+  "username": "Username",
+  "password": "Password",
+  "withGoogle": "Continue with Google",
+  "withFacebook": "Continue with Facebook",
+  "noAccount": "Don't have an account?",
+  "termsText": "By continuing with Google, Facebook, you agree to Elysia's <a href='#' class='terms-link'>Terms of Service</a> and <a href='#' class='terms-link'>Privacy Policy</a>",
+  "loginErrors": {
+    "wrongCredentials": "Email or password is wrong. Please check.",
+    "unknown": "An unexpected error happened. Please try again later."
+  }
+}

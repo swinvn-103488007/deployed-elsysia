@@ -1,0 +1,10 @@
+{
+  "avatar": "Avatar",
+  "avatar_helper_text": "Pick a photo up to 10MB. Your avatar photo will be public.",
+  "change_photo": "Change Photo",
+  "remove_photo": "Remove Photo",
+  "username": "Username",
+  "change_password": "Change password",
+  "new_password": "New password",
+  "confirm_new_password": "Confirm new password"
+}

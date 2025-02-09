@@ -1,0 +1,19 @@
+{
+  "formErrors": {
+    "unknown": "Lỗi form không xác định (không nên xuất hiện trong production).",
+    "email": {
+      "empty": "Địa chỉ email không được bỏ trống.",
+      "wrongFormat": "Hãy nhập một địa chỉ email hợp lệ (v.d., name@example.com).",
+      "userExisted": "Email đã được đăng ký bởi người dùng khác. Hãy dùng một email khác."
+    },
+    "password": {
+      "empty": "Mật khẩu không được bỏ trống.",
+      "passWordNotMatch": "Mật khẩu xác nhận không khớp",
+      "tooShort": "Mật khẩu cần có ít nhất {{min}} ký tự"
+    },
+    "username": {
+      "empty":"Tên người dùng không được bỏ trống.",
+      "tooLong": "Tên người dùng không được quá {{max}} ký tự"
+    }
+  }
+}

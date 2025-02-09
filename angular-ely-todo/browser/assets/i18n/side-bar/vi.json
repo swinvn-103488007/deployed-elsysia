@@ -1,0 +1,15 @@
+{
+  "search": "Tìm kiếm",
+  "navItems": {
+    "buckets": "Danh mục",
+    "upcoming": "Sắp tới",
+    "filters": "Bộ lọc & Nhãn"
+  },
+  "menuItems": {
+    "settings": "Cài đặt",
+    "addTeam": "Thêm nhóm",
+    "activityLog": "Nhật ký hoạt động",
+    "resources": "Tài nguyên",
+    "logOut": "Đăng xuất"
+  }
+}

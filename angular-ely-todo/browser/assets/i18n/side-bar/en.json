@@ -1,0 +1,15 @@
+{
+  "search": "Search",
+  "navItems": {
+    "buckets": "Buckets",
+    "upcoming": "Upcoming",
+    "filters": "Filters & Labels"
+  },
+  "menuItems": {
+    "settings": "Settings",
+    "addTeam": "Add a team",
+    "activityLog": "Activity log",
+    "resources": "Resources",
+    "logOut": "Log out"
+  }
+}

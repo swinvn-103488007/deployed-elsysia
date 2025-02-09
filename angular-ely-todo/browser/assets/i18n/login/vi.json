@@ -1,0 +1,15 @@
+{
+  "signUp": "Đăng ký",
+  "login": "Đăng nhập",
+  "email": "Email",
+  "username": "Tên người dùng",
+  "password": "Mật khẩu",
+  "withGoogle": "Tiếp tục với Google",
+  "withFacebook": "Tiếp tục với Facebook",
+  "noAccount": "Chưa có tài khoản?",
+  "termsText": "Bằng việc tiếp tục với Google, Facebook, bạn đồng ý với <a href='#' class='terms-link'>Điều khoản Dịch vụ</a> và <a href='#' class='terms-link'>Chính sách quyền riêng tư</a> của Elysia",
+  "loginErrors": {
+    "wrongCredentials": "Email hoặc mật khẩu chưa chính xác. Vui lòng kiểm tra lại.",
+    "unknown": "Đã có lỗi xảy ra. Vui lòng thử lại sau."
+  }
+}

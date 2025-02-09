@@ -1,0 +1,16 @@
+{
+  "signUp": "Đăng ký",
+  "email": "Email",
+  "username": "Tên người dùng",
+  "password": "Mật khẩu",
+  "confirm_password": "Xác nhận mật khẩu",
+  "withGoogle": "Tiếp tục với Google",
+  "withFacebook": "Tiếp tục với Facebook",
+  "already_signed_up": "Đã đăng ký?",
+  "go_to_login": "Đăng nhập",
+  "termsText": "Bằng việc tiếp tục với Google, Facebook, bạn đồng ý với <a href='#' class='terms-link'>Điều khoản Dịch vụ</a> và <a href='#' class='terms-link'>Chính sách quyền riêng tư</a> của Elysia",
+  "signUpErrors": {
+    "userExisted": "Email đã được đăng ký, hãy sử dụng một email khác.",
+    "unknown": "Đã có lỗi xảy ra. Vui lòng thử lại sau."
+  }
+}

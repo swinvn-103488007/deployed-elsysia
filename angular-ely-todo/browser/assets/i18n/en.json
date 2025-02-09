@@ -1,0 +1,19 @@
+{
+  "formErrors": {
+    "unknown": "An unknown form error happen (should not appear on production).",
+    "email": {
+      "empty": "Email address cannot be empty.",
+      "wrongFormat": "Please enter a valid email address (e.g., name@example.com).",
+      "userExisted": "Email was registered by another user. Please use another one."
+    },
+    "password": {
+      "empty": "Password cannot be empty.",
+      "passWordNotMatch": "Confirm password does not match",
+      "tooShort": "Password must be at least {{min}} characters"
+    },
+    "username": {
+      "empty": "Username cannot be empty",
+      "tooLong": "Username must be less than {{max}} characters"
+    }
+  }
+}

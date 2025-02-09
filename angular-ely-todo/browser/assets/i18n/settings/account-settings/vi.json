@@ -1,0 +1,10 @@
+{
+  "avatar": "Ảnh đại diện",
+  "avatar_helper_text": "Chọn một ảnh có kích cỡ không quá 10MB. Ảnh đại diện của bạn sẽ được công khai.",
+  "username": "Tên người dùng",
+  "change_photo": "Đổi ảnh",
+  "remove_photo": "Xóa ảnh",
+  "change_password": "Đổi mật khẩu",
+  "new_password": "Mật khẩu mới",
+  "confirm_new_password": "Xác nhận mật khẩu mới"
+}
